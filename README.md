@@ -1,4 +1,4 @@
-test
+练习 git 使用
 ====
 
-test git usge
+这是一个测试git使用的项目。
